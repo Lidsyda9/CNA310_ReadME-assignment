@@ -1,6 +1,6 @@
-# Project Title
+# Assignment Write a loop that printName Lidsyda
 
-One Paragraph of project description goes here.
+This project will show you how to run a python file that print out every character of your name ("Lidsyda")
 
 ## Getting Started
 
