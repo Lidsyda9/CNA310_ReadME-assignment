@@ -19,14 +19,16 @@ sudo apt install python
 Once installed you can run the program with the following command
 
 ```
-python main.py
+pythonProject main.py
+def printName(str):
+    for char in str:
+        print(char)
+printName("Lidsyda")
+
 ```
 
 Add any additional ways to run the program below
 
-```
-pythonProject main.py
-```
 
 ## Thanks
 Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
