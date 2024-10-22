@@ -4,29 +4,28 @@ This project will show you how to run a python file that print out every charact
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will install python on on your local machine for running the code in Python.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
-
+Request your python project, software requirements version: '3.8' or higher to run, with installtion command for windows: download and install from [Python.org](https://www.python.org/downloads/). after you install PyCharm. 
 ```
 sudo apt update
 sudo apt upgrade
-sudo apt install package1 package2
+sudo apt install python
 ```
 
 ## Running
 Once installed you can run the program with the following command
 
 ```
-python cne_demo.py
+python main.py
 ```
 
 Add any additional ways to run the program below
 
 ```
-python cne_demo.py test.txt
+python main.py test.txt
 ```
 
 ## Thanks
