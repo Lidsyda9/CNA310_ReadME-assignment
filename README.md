@@ -25,7 +25,7 @@ python main.py
 Add any additional ways to run the program below
 
 ```
-python main.py test.txt
+pythonProject main.py
 ```
 
 ## Thanks
