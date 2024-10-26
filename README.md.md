@@ -19,6 +19,8 @@ sudo apt install python
 Once installed you can run the program with the following command
 
 ```
+C:\Users\lidsy\AppData\Local\Programs\Python\Python312\python.exe C:\Users\lidsy\PycharmProjects\pythonProject\main.py 
+
 pythonProject main.py
 def printName(str):
     for char in str:
